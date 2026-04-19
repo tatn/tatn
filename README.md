@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tatn&show_icons=true&locale=en&layout=normal&theme=transparent" alt="Top Languages" />
 
 <!--
+<img src="https://github-readme-stats.vercel.app/api?username=tatn&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
+
 **tatn/tatn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
